@@ -1,5 +1,8 @@
 # Task Management App
 
+## Demo Video
+[Watch the demo](https://github.com/user-attachments/assets/7238402e-6fb7-43b5-86b3-ba727ca27eec)
+
 **Track A — Full-Stack (Flutter + FastAPI + SQLite)**
 
 ## Setup
